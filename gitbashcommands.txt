@@ -1,0 +1,59 @@
+DwarakaMaayi@Lenovo-PC MINGW64 ~ (master)
+$ mkdir week1
+
+DwarakaMaayi@Lenovo-PC MINGW64 ~ (master)
+$ cd week1
+
+DwarakaMaayi@Lenovo-PC MINGW64 ~/week1 (master)
+$ ls
+
+DwarakaMaayi@Lenovo-PC MINGW64 ~/week1 (master)
+$ cd ..
+
+DwarakaMaayi@Lenovo-PC MINGW64 ~ (master)
+$ rmdir week1/
+
+DwarakaMaayi@Lenovo-PC MINGW64 ~ (master)
+$ ls
+ abc.txt
+ AppData/
+'Application Data'@
+ Contacts/
+ Cookies@
+ Desktop/
+ Documents/
+
+
+DwarakaMaayi@Lenovo-PC MINGW64 ~/Desktop (master)
+$ cd ..
+
+DwarakaMaayi@Lenovo-PC MINGW64 ~ (master)
+$ cd Desktop/
+
+DwarakaMaayi@Lenovo-PC MINGW64 ~/Desktop (master)
+$ ls
+'~$ critique.docx'                            'eclipse - Shortcut.lnk'*
+'~$anchala Assignment 3 DBMS.doc'              Family/
+'~$DSU16 Final Project on GPS.docx'            gitbashcommands.txt
+'~$e 80 dollars to ranjith sir.docx'           Gitbashfiles/
+'~$ofessional Seminor Project Proposal.docx'  'Google Play Music.url'
+'~$stname_firstname_assignment_6.docx'        'Iso Id CARD.pdf'
+'~WRL0003.tmp'                                'iso receipt.pdf'
+'~WRL1902.tmp'                                'Opt details'/
+'Adobe Photo Offer.url'                        Slack.lnk*
+'desktop files'/                               Thumbs.db
+ desktop.ini                                  'touch hello.tx.PNG'
+
+
+DwarakaMaayi@Lenovo-PC MINGW64 ~/Desktop (master)
+$ cp gitbashcommands.txt Gitbashfiles/
+
+DwarakaMaayi@Lenovo-PC MINGW64 ~/Desktop (master)
+$ cd Gitbashfiles/
+
+DwarakaMaayi@Lenovo-PC MINGW64 ~/Desktop/Gitbashfiles (master)
+$ ls
+gitbashcommands.txt
+
+DwarakaMaayi@Lenovo-PC MINGW64 ~/Desktop/Gitbashfiles (master)
+$

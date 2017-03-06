@@ -1,0 +1,88 @@
+DwarakaMaayi@Lenovo-PC MINGW64 ~ (master)
+$ mkdir linuxcommands1
+
+DwarakaMaayi@Lenovo-PC MINGW64 ~ (master)
+$ cd l
+Links/          linuxcommands1/ Local Settings/
+Linuxcommands/  list/
+
+DwarakaMaayi@Lenovo-PC MINGW64 ~ (master)
+$ cd linuxcommands
+
+DwarakaMaayi@Lenovo-PC MINGW64 ~/linuxcommands (master)
+$ ls
+README.md
+
+DwarakaMaayi@Lenovo-PC MINGW64 ~/linuxcommands (master)
+$ cd..
+bash: cd..: command not found
+
+DwarakaMaayi@Lenovo-PC MINGW64 ~/linuxcommands (master)
+$ cd ..
+
+DwarakaMaayi@Lenovo-PC MINGW64 ~ (master)
+$ rmdir linuxcommands
+rmdir: failed to remove 'linuxcommands': Directory not empty
+
+DwarakaMaayi@Lenovo-PC MINGW64 ~ (master)
+$ rmdir linuxcommaands1
+rmdir: failed to remove 'linuxcommaands1': No such file or directory
+
+DwarakaMaayi@Lenovo-PC MINGW64 ~ (master)
+$ rmdir linuxcommands1
+
+DwarakaMaayi@Lenovo-PC MINGW64 ~ (master)
+$ ls
+ abc.txt
+ AppData/
+'Application Data'@
+ Contacts/
+ Cookies@
+ Desktop/
+ Documents/
+ Downloads/
+ eclipse/
+ Favorites/
+ hello.tx
+ HospitalService3/
+ HospitalServices/
+ HospitalServices2/
+ IntelGraphicsProfiles/
+ Links/
+ Linuxcommands/
+ list/
+'Local Settings'@
+ Music/
+'My Documents'@
+ NetHood@
+ ntuser.dat
+ ntuser.dat.log1
+ ntuser.dat.log2
+ NTUSER.DAT{067c36dd-69be-11e6-a14b-9e1c0ed37b5f}.TM.blf
+ NTUSER.DAT{067c36dd-69be-11e6-a14b-9e1c0ed37b5f}.TMContainer0000000000000000000                                                                                                                1.regtrans-ms
+ NTUSER.DAT{067c36dd-69be-11e6-a14b-9e1c0ed37b5f}.TMContainer0000000000000000000                                                                                                                2.regtrans-ms
+ ntuser.dat{a74f764a-7875-11e6-828c-68f728ca7722}.TxR.0.regtrans-ms
+ ntuser.dat{a74f764a-7875-11e6-828c-68f728ca7722}.TxR.1.regtrans-ms
+ ntuser.dat{a74f764a-7875-11e6-828c-68f728ca7722}.TxR.2.regtrans-ms
+ ntuser.dat{a74f764a-7875-11e6-828c-68f728ca7722}.TxR.blf
+ ntuser.dat{a74f764b-7875-11e6-828c-68f728ca7722}.TM.blf
+ ntuser.dat{a74f764b-7875-11e6-828c-68f728ca7722}.TMContainer0000000000000000000                                                                                                                1.regtrans-ms
+ ntuser.dat{a74f764b-7875-11e6-828c-68f728ca7722}.TMContainer0000000000000000000                                                                                                                2.regtrans-ms
+ ntuser.ini
+ OneDrive/
+ Oracle/
+ palindrome/
+ Pictures/
+ PrintHood@
+ Recent@
+ Roaming/
+'Saved Games'/
+ Searches/
+ SendTo@
+ Serviceforpoorpeople/
+'Start Menu'@
+ Templates@
+ Tracing/
+ Videos/
+ wekafiles/
+ workspace/
