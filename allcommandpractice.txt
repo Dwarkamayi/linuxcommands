@@ -1,0 +1,386 @@
+DwarakaMaayi@Lenovo-PC MINGW64 ~ (master)
+$ whoami
+DwarakaMaayi
+
+DwarakaMaayi@Lenovo-PC MINGW64 ~ (master)
+$ who
+
+DwarakaMaayi@Lenovo-PC MINGW64 ~ (master)
+$ history
+    1  ls
+    2  which shell
+    3  mkdir Devops
+    4  ls
+    5  uname krish
+    6  env
+    7  which shell
+    8  which sh
+    9  mkdir Devops
+   10  ls -la
+   11  rmdir Devops
+   12  mkdir Linuxcommands
+   13  ls -l
+   14  pwd
+   15  hello.tx
+   16  cat hello.tx
+   17  this is a text
+   18  touch hello.tx
+   19  ls -l
+   20  hello.tx
+   21  cat hello.tx
+   22  vi hello.tx
+   23  rmdir Linuxcommand
+   24  rmdir Linuxcommands
+   25  mkdir Linuxcommands
+   26  git clone
+   27
+   28
+   29  https://github.com/Dwarkamayi/linuxcommand
+   30  git clone
+   31  https://github.com./Dwarkamayi/linuxcommand
+   32  git@github.com:Dwarkamayi/linuxcommands.git
+   33  https://github.com/Dwarkamayi/linuxcommands.git
+   34  git clone https://github.com/Dwarkamayi/linuxcommands.git
+   35  ls
+   36  git init
+   37  ls
+   38  ls
+   39  ls -la
+   40  git init
+   41  clear
+   42  rmdir linuxcommands
+   43  mkdir linuxcommands
+   44  touch abc.txt
+   45  cat abc.txt
+   46  vi abc.txt
+   47  git clone https://github.com/Dwarkamayi/linuxcommands.git
+   48  rmdir linuxcommands
+   49  mkdir linuxcommands
+   50  mkdir linuxcommands1
+   51  cd linuxcommands
+   52  ls
+   53  cd..
+   54  cd ..
+   55  rmdir linuxcommands
+   56  rmdir linuxcommaands1
+   57  rmdir linuxcommands1
+   58  ls
+   59  cd desktop
+   60  ls
+   61  cd linux commands
+   62  cd linux commands
+   63  cd linuxcommands
+   64  ls
+   65  ls
+   66  cp basic.txt sai
+   67  cd sai
+   68  cp basic.txt documents
+   69  cd documents
+   70  cd documents
+   71  cp desktop basic.txt
+   72  cd ..
+   73  ls
+   74  cp Desktop/basic.txt
+   75  cp Desktop/basic.txt Downloads/
+   76  cd Downloads/
+   77  ls
+   78  cd downloads
+   79  cd downloads
+   80  ls
+   81  rmdir linuxcommands1
+   82  rmdir linuxcommands
+   83  rmdir linuxcommands1
+   84  cd ..
+   85  ls
+   86  cd Downloads/
+   87  ls
+   88  rm basic.txt
+   89  ls
+   90  cd ..
+   91  move basic.txt soft
+   92  move basic.txt C:\soft
+   93  move basic.txt pictures
+   94  mv basic.txt soft
+   95  mv basic.txt pictures
+   96  mv Desktop/basic.txt Pictures/
+   97  cd Pictures/
+   98  ls
+   99  cd basic.txt
+  100  git clone https://github.com/Dwarkamayi/linuxcommands.git
+  101  pwd
+  102  cd ..
+  103  cd Pictures/
+  104  ls
+  105  pwd
+  106  cd ..
+  107  cat
+  108  cd ..
+  109  ls
+  110  git status
+  111  git add Pictures\basic.txt
+  112  cd desktop.ini
+  113  mv Desktop/basic.txt Pictures/
+  114  cd ..
+  115  ls
+  116  cd desktop\ pictures
+  117  cd desktop\ pictures
+  118  cd pictures/basic.txt
+  119  rmdir linuxcommands1
+  120  cd desktop\ study\ files\ \,\ excel\ files/
+  121  git clone https://github.com/Dwarkamayi/linuxcommands.git
+  122  clear
+  123  mkdir week1
+  124  cd Pictures
+  125  cd Pictures/
+  126  ls
+  127  cp Pictures/basic.txt
+  128  cd Pictures/
+  129  history
+  130  clear
+  131  cp Pictures/basic.txt Linuxcommands/
+  132  cd Linuxcommands/
+  133  ls
+  134  git status
+  135  git add
+  136  git add basic.txt
+  137  git commit - m " commands"
+  138  git commit -m " commands"
+  139  git push
+  140  git pull
+  141  git status
+  142  git push
+  143  cd
+  144  cd Linuxcommands/
+  145  ls
+  146  mkdir week1
+  147  mkdir week1
+  148  cd week1
+  149  ls
+  150  cd ..
+  151  rmdir week1/
+  152  cd Desktop/
+  153  cd Desktop/
+  154  ls
+  155  cp desktop/Gitbashfiles\gitbashcommands
+  156  ls
+  157  ls
+  158  cp desktop/Gitbasgfiles/gitbashcommands
+  159  cp Gitbashfiles/gitbashcommands.txt
+  160  cp Gitbashfiles/gitbashcommands.txt html/
+  161  cd ..
+  162  ls
+  163  cd Desktop/
+  164  ls
+  165  cp Gitbashfiles/gitbashcommands.txt
+  166  cp Gitbashfiles/gitbashcommands.txt/
+  167  cp Gitbashfiles\gitbashcommands.txt
+  168  cp desktop/Gitbashfiles\ gitbashcommands.txt
+  169  cd ..
+  170  cd Desktop/
+  171  ls
+  172  cp gitbashcommands.txt
+  173  cp gitbashcommands.txt Gitbashfiles/
+  174  cd Gitbashfiles/
+  175  ls
+  176  ls
+  177  git status
+  178  git add gitbashcommands.txt
+  179  git commit -m "Linuxcommands1"
+  180  git push
+  181  git push https://github.com/Dwarkamayi/Linuxcommands1.git
+  182  git commit -m "Linuxcommands1"
+  183  git commit -m https://github.com/Dwarkamayi/Linuxcommands1.git
+  184  git pull
+  185  git commit -m "https://github.com/Dwarkamayi/Linuxcommands1.git"
+  186  git config -- Dwarakamayi. email "swethakrishnasai@gmail.com"
+  187  git config -- krish. email "swethakrishnasai@gmail.com"
+  188  git config -- Dwarkamayi. email "swethakrishnasai@gmail.com"
+  189  git config
+  190  git status
+  191  git add gitbashcommands.txt
+  192  git commit -m "Linuxcommands1"
+  193  git push https://github.com/Dwarkamayi/Linuxcommands1.git
+  194  git commit -m "Linuxcommands1"
+  195  ls
+  196  cd Desktop/
+  197  ls
+  198  cd Desktop/
+  199  cp gitbashcommands.txt
+  200  cp gitbashcommands.txt Gitbashfiles/
+  201  ls
+  202  ls
+  203  cd Gitbashfiles/
+  204  ls
+  205  cp gitbashcommands.txt Linuxcommands1
+  206  cd Linuxcommands1
+  207  cd Linuxcommands1
+  208  cp Desktop/Gitbashfiles/gitbashcommands.txt Linuxcommands/
+  209  cd Linuxcommands/
+  210  LS
+  211  ls
+  212  git status
+  213  git add gitbashcommands.txt
+  214  git status
+  215  git commit -m "Linuxcommands1"
+  216  git config user.name
+  217  git config user.name "krishna"
+  218  git config user.name
+  219  git config user.email "swethakrishnasai@gmail.com"
+  220  git config user.email
+  221  git commit -m "Linuxcommands1"
+  222  git push
+  223  git pull
+  224  git status
+  225  clear
+  226  cat basic.txt
+  227  clear
+  228  cat Gitbashfiles
+  229  cat destopfiles
+  230  cat desktopfiles
+  231  ls
+  232  ls -l
+  233  ls -a
+  234  cp Desktop/testcommands.txt test
+  235  cp -i
+  236  cp -i test
+  237  cp -r test
+  238  cp Desktop/testcommands.txt test
+  239  ls
+  240  cd test
+  241  cp Desktop/testcommands.txt test
+  242  ls test
+  243  ls -a test
+  244  cp Desktop/testcommands.txt test/
+  245  cp Desktop/testcommands.txt test
+  246  cp Desktop/testcommands.txt test
+  247  cd test
+  248  mkdir learningcommands
+  249  cd learningcommands
+  250  ls
+  251  cd ..
+  252  rmdir learningcommands/
+  253  ls
+  254  cd ..
+  255  cd desktop.ini
+  256  cd desktop/
+  257  cd
+  258  cd Desktop/
+  259  ls
+  260  cp desktop/testcommands.txt test/
+  261  cp testcommands.txt test
+  262  cd test
+  263  ls
+  264  ls -a
+  265  mv testcommands.txt
+  266  mv testcommands.txt desktopfiles
+  267  mv -b gitbashcommands Gitbashfiles
+  268  mv -b
+  269  mv-b gitbashcommands Gitbashfiles
+  270  mv -b gitbashcommands Gitbashfiles
+  271  rm -r linuxcommands1
+  272  ln testcommands test
+  273  ln -s testcommands test
+  274  chgrp desktopfiles
+  275  cat test
+  276  cd desktopfiles
+  277  cd learningcommands
+  278  cd test
+  279  mkdir learning commands
+  280  cd learningcommands
+  281  rmdir learning commands
+  282  clear
+  283  adduser
+  284  arch
+  285  awk
+  286  bc
+  287  cal
+  288  alias
+  289  break
+  290  case
+  291  cd
+  292  command
+  293  continue
+  294  declare
+  295  dirs
+  296  enable
+  297  eval
+  298  exec
+  299  export
+  300  for
+  301  hash
+  302  history
+  303  if let
+  304  history
+  305  hash
+  306  let
+  307  local
+  308  popd
+  309  pushd
+  310  read
+  311  readonly
+  312  set
+  313  shift
+  314  shopt
+  315  source
+  316  source sh
+  317  times
+  318  time
+  319  type
+  320  ulimit
+  321  umask
+  322  unalias
+  323  unset
+  324  untill
+  325  until
+  326  while
+  327  cal
+  328  cat
+  329  chdir
+  330  chdir Linuxcommands/
+  331  chgrp
+  332  chkconfig
+  333  chmod 744 test
+  334  chown
+  335  chown krishna
+  336  cksum
+  337  chroot
+  338  df
+  339  diff
+  340  diff3
+  341  dir
+  342  dirname
+  343  echo
+  344  echo hello linux
+  345  ed
+  346  free
+  347  head
+  348  info
+  349  ln
+  350  man ls
+  351  man
+  352  man ls -l
+  353  man ls
+  354  man
+  355  mknod
+  356  paste
+  357  printf
+  358  ps
+  359  pwd
+  360  ram
+  361  screen
+  362  touch
+  363  touch Gitbashfiles
+  364  top
+  365  traceroute
+  366  tr
+  367  true
+  368  usermod
+  369  vdir
+  370  watch
+  371  yes
+  372  whoami
+  373  who
+  374  history
+
+DwarakaMaayi@Lenovo-PC MINGW64 ~ (master)
+$
